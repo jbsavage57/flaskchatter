@@ -15,7 +15,10 @@ class Chat_T:
             "I'm doing great.",
             "You're welcome.",
             "who Developed you",
-            "NLP class"
+            "NLP class",
+            "Hari is a great Associate Instructor",
+            "NLP offers a lot of oportunities fo document analysis",
+            "Do you get bored chatting?"
         ]
         trainer = ListTrainer(self.chatbot)
         trainer.train(conversation)
